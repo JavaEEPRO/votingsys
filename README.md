@@ -1,4 +1,4 @@
-######  votingsys
+######  votingsys on SpringBoot (v. 2.3.1.RELEASE)
 Graduation Project 'Voting System'
 ==================================
 
@@ -6,7 +6,7 @@ Graduation Project 'Voting System'
 
 
 
-#####  Shows, how Entities depends on each other:
+#####  Next few images shows, how Entities depends on each other:
 
 
 
